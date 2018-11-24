@@ -1,2 +1,2 @@
 # clasenueva
-mvc calculadora
+aula 2
